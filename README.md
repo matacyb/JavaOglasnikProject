@@ -7,7 +7,7 @@ Upute za pokretanje aplikacije (Koristeći Eclipse IDE)
 3. Odabrati Arguments tab te pod VM Arguments C/P sljedeće bez navodnika
 "--module-path "C:\Users\#\Desktop\javafx-sdk-14.0.1\lib" --add-modules 
 javafx.controls,javafx.fxml"
-4. Putanja treba bvoditi do lib foldera unutar javafx-sdk (ono što ste skinuli iz koraka jedan).
+4. Putanja treba voditi do lib foldera unutar javafx-sdk (ono što ste skinuli iz koraka jedan).
 5. Zatim unutar foldera projekta idemo do Main.java file-a na sljedeći način ->
   src/application/Main.java
 6. Desnik klik na Main.java / Run As/ Java Application
